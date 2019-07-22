@@ -1,0 +1,21 @@
+body {
+    background: url(../img/SITE.jpg) no-repeat;
+    background-size: cover;
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.2rem
+}
+
+nav {
+    margin-top:1.9rem;
+}
+
+
+.nav-item {
+    font-size: small;
+    color:#888;
+    text-shadow: 0.05rem 0.05rem 0.1rem white;
+}
+.nav-item:hover {
+    text-decoration: none;
+    color:#fff;
+}
